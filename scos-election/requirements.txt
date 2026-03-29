@@ -1,0 +1,2 @@
+streamlit>=1.32.0
+filelock>=3.12.0
